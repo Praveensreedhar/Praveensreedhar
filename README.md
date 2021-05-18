@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Praveensreedhar
 - 👀 I’m interested in network Automation and SDN
 - 🌱 I’m currently learning Python, flask, datamodeling Apis, SDN
-- 💞️ I’m looking to collaborate on automating boring stuffs with simple coding
+- 💞️ I’m looking to collaborate on automation for boring stuffs with simple coding
 - 📫 How to reach me @praveensreedha@gmail.com
 
 <!---
